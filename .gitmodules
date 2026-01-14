@@ -1,0 +1,3 @@
+[submodule "externel/PolyMath"]
+	path = externel/PolyMath
+	url = https://github.com/QwenLM/PolyMath
