@@ -12,7 +12,7 @@ Our analysis reveals that multilingual processing in MoE models is highly struct
 
 ## 📋 Catalogue
 
-* [Preparations](#preparations)
+* [Preparations](#Preparations)
 * [Routing Analysis](#routing-analysis)
 * [Layerwise Intervention](#intervention-experiments)
 * [Routing-guided Steering](#routing-guided-steering)
